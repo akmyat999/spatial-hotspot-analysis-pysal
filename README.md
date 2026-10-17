@@ -47,4 +47,3 @@ A fixed random seed (42) makes the permutation tests repeatable.
 
 ## Author
 Aung Kaung Myat, MSc GIS & Remote Sensing, University College Dublin.
-[Portfolio](https://storymaps.arcgis.com/stories/3b6980061d994d819ca509a8b1efa1cf)
